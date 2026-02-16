@@ -1,0 +1,5 @@
+{
+  "name": "汇率兑换利润管理系统",
+  "description": "专为合伙经营设计的汇率兑换记账系统，支持澳币(AUD)与马币(MYR)兑换追踪、Wise户口记录、合伙人垫付统计及利润自动计算。",
+  "requestFramePermissions": []
+}
